@@ -1,4 +1,4 @@
-package com.example.tipper;
+package com.example.bmi;
 
 import androidx.appcompat.app.AppCompatActivity;
 
