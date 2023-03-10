@@ -2,18 +2,12 @@ package com.example.bmi;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.annotation.SuppressLint;
 import android.os.Bundle;
-import android.text.Editable; // for EditText event handling
-import android.text.TextWatcher; // EditText listener
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText; // for bill amount input
-import android.widget.SeekBar; // for changing the tip percentage
-import android.widget.SeekBar.OnSeekBarChangeListener; // SeekBar listener
-import android.widget.TextView; // for displaying text
+import android.widget.EditText;
+import android.widget.TextView;
 
-import java.text.NumberFormat; // for currency formatting
 
 public class MainActivity extends AppCompatActivity {
 
