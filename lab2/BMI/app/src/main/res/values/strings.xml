@@ -1,8 +1,0 @@
-<resources>
-   <string name="app_name">BMI Calculator</string>
-   <string name="enter_age">Enter age</string>
-   <string name="enter_weight">Enter weight [kg]</string>
-   <string name="enter_height">Enter height [cm]</string>
-   <string name="calculate_bmi">Calculate BMI </string>
-    <string name="bmi_result">BMI result: </string>
-</resources>
