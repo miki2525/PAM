@@ -6,7 +6,7 @@ import android.view.MenuItem;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.pjatk.bmi.ui.fragment.BMICalculatorFragment;
 import com.pjatk.bmi.ui.fragment.CaloriesFragment;
-import com.pjatk.bmi.ui.fragment.FirstFragment;
+import com.pjatk.bmi.ui.fragment.RecipeFragment;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -27,10 +27,11 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
 
     }
 
-    FirstFragment firstFragment = new FirstFragment();
     BMICalculatorFragment bmiCalculatorFragment = new BMICalculatorFragment();
 
     CaloriesFragment caloriesFragment = new CaloriesFragment();
+
+    RecipeFragment recipeFragment = new RecipeFragment();
 
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
@@ -45,27 +46,9 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
                 return true;
 
             case R.id.navigation_recipe:
-                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, firstFragment).commit();
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, recipeFragment).commit();
                 return true;
         }
         return false;
     }
-
-    private void openBmiCalculator() {
-        getSupportFragmentManager().beginTransaction()
-                .replace(R.id.fragment_container, new BMICalculatorFragment())
-                .commit();
-    }
-//
-//    private void openCalories() {
-//        getSupportFragmentManager().beginTransaction()
-//                .replace(R.id.fragment_container, new BMICalculatorFragment())
-//                .commit();
-//    }
-//
-//    private void openRecipes() {
-//        getSupportFragmentManager().beginTransaction()
-//                .replace(R.id.fragment_container, new BMICalculatorFragment())
-//                .commit();
-//    }
 }
