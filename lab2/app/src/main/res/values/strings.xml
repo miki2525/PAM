@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BMI</string>
+    <string name="app_name">Fitness life</string>
     <string name="title_bmi_calc">BMI calculator</string>
     <string name="title_calories">Count calories</string>
     <string name="title_recipe">Example recipes</string>
@@ -7,10 +7,14 @@
     <string name="enter_weight">Enter weight [kg]</string>
     <string name="enter_height">Enter height [cm]</string>
     <string name="calculate_bmi">Calculate BMI </string>
+    <string name="calculate_calories">Calculate calories </string>
     <string name="bmi_result">BMI result: </string>
+    <string name="calories_result">Result: </string>
     <string name="bmi_score_underweight">UNDERWEIGHT</string>
     <string name="bmi_score_healthy_weight">HEALTHY_WEIGHT</string>
     <string name="bmi_score_overweight">OVERWEIGHT</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="gender_dropdown">
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
 </resources>

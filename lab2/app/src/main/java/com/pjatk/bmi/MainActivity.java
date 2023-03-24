@@ -5,6 +5,7 @@ import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.pjatk.bmi.ui.fragment.BMICalculatorFragment;
+import com.pjatk.bmi.ui.fragment.CaloriesFragment;
 import com.pjatk.bmi.ui.fragment.FirstFragment;
 
 import androidx.annotation.NonNull;
@@ -29,6 +30,8 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
     FirstFragment firstFragment = new FirstFragment();
     BMICalculatorFragment bmiCalculatorFragment = new BMICalculatorFragment();
 
+    CaloriesFragment caloriesFragment = new CaloriesFragment();
+
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
@@ -38,7 +41,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
                 return true;
 
             case R.id.navigation_calories:
-                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, firstFragment).commit();
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, caloriesFragment).commit();
                 return true;
 
             case R.id.navigation_recipe:
