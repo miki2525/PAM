@@ -13,12 +13,12 @@
     <string name="bmi_score_underweight">UNDERWEIGHT</string>
     <string name="bmi_score_healthy_weight">HEALTHY_WEIGHT</string>
     <string name="bmi_score_overweight">OVERWEIGHT</string>
-<!---->
+    <!---->
     <string-array name="gender_dropdown">
         <item>MALE</item>
         <item>FEMALE</item>
     </string-array>
-<!---->
+    <!---->
     <string-array name="recipes">
         <item>Chicken Alfredo</item>
         <item>Beef Stroganoff</item>
