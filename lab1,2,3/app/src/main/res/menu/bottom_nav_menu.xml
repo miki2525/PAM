@@ -18,7 +18,7 @@
 
     <item
         android:id="@+id/navigation_chart"
-        android:icon="@drawable/ic_recipe"
+        android:icon="@drawable/ic_chart"
         android:title="@string/title_recipe" />
 
 </menu>
