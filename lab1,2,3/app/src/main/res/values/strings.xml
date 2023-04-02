@@ -3,6 +3,7 @@
     <string name="title_bmi_calc">BMI calculator</string>
     <string name="title_calories">Count calories</string>
     <string name="title_recipe">Example recipes</string>
+    <string name="title_chart">BMI chart</string>
     <string name="enter_age">Enter age</string>
     <string name="enter_weight">Enter weight [kg]</string>
     <string name="enter_height">Enter height [cm]</string>
