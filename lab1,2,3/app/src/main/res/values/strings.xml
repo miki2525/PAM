@@ -14,6 +14,12 @@
     <string name="bmi_score_underweight">UNDERWEIGHT</string>
     <string name="bmi_score_healthy_weight">HEALTHY_WEIGHT</string>
     <string name="bmi_score_overweight">OVERWEIGHT</string>
+    <string name="title_quiz">health quiz</string>
+    <string name="quiz_question">Question</string>
+    <string name="quiz_answer_1">Answer 1</string>
+    <string name="quiz_answer_2">Answer 2</string>
+    <string name="quiz_answer_3">Answer 3</string>
+    <string name="quiz_submit">Submit</string>
     <!---->
     <string-array name="gender_dropdown">
         <item>MALE</item>
@@ -66,4 +72,41 @@
         <item>5. Stir in the sour cream and season with salt and pepper to taste.</item>
         <item>6. Serve the beef stroganoff over cooked egg noodles.</item>
     </string-array>
+    <!---->
+    <string name="question_1">What is the recommended daily intake of fruits and vegetables??</string>
+    <string name="question_2">Which nutrient is important for building strong bones?</string>
+    <string name="question_3">What is a healthy blood pressure reading?</string>
+    <string name="question_4">Which of the following is a symptom of dehydration?</string>
+    <string name="question_5">What is a healthy BMI range for adults?</string>
+    <string name="question_6">How many glasses of water should you drink per day?</string>
+
+    <string name="q1_answer_a">2 cups</string>
+    <string name="q1_answer_b">4 cups</string>
+    <string name="q1_answer_c">6 cups</string>
+    <string name="q1_answer_correct_index">2</string>
+
+    <string name="q2_answer_a">Vitamin C</string>
+    <string name="q2_answer_b">Vitamin D</string>
+    <string name="q2_answer_c">Iron</string>
+    <string name="q2_answer_correct_index">1</string>
+
+    <string name="q3_answer_a">120/80</string>
+    <string name="q3_answer_b">140/90</string>
+    <string name="q3_answer_c">160/100</string>
+    <string name="q3_answer_correct_index">0</string>
+
+    <string name="q4_answer_a">Dry skin</string>
+    <string name="q4_answer_b">Headache</string>
+    <string name="q4_answer_c">Nausea</string>
+    <string name="q4_answer_correct_index">1</string>
+
+    <string name="q5_answer_a">18.5-24.9</string>
+    <string name="q5_answer_b">25.0-29.9</string>
+    <string name="q5_answer_c">30.0-34.9</string>
+    <string name="q5_answer_correct_index">0</string>
+
+    <string name="q6_answer_a">4-6</string>
+    <string name="q6_answer_b">8-10</string>
+    <string name="q6_answer_c">12-14</string>
+    <string name="q6_answer_correct_index">1</string>
 </resources>
