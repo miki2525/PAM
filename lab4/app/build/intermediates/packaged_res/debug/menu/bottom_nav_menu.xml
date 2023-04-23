@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bmi_calc"
+        android:icon="@drawable/ic_bmi_calculator"
+        android:title="@string/title_bmi_calc" />
+
+    <item
+        android:id="@+id/navigation_calories"
+        android:icon="@drawable/ic_calories"
+        android:title="@string/title_calories" />
+
+    <item
+        android:id="@+id/navigation_recipe"
+        android:icon="@drawable/ic_recipe"
+        android:title="@string/title_recipe" />
+
+    <item
+        android:id="@+id/navigation_chart"
+        android:icon="@drawable/ic_chart"
+        android:title="@string/title_chart" />
+
+    <item
+        android:id="@+id/navigation_quiz"
+        android:icon="@drawable/ic_quiz"
+        android:title="@string/title_quiz" />
+
+</menu>

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/drawable_ic_bmi_calculator.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/drawable/ic_bmi_calculator.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/layout_fragment_chart.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/layout/fragment_chart.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/drawable_recipe_list.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/drawable/recipe_list.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/xml_backup_rules.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/drawable_ic_quiz.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/drawable/ic_quiz.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/drawable_kcal_energy.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/drawable/kcal_energy.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/layout_fragment_recipe.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/layout/fragment_recipe.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/layout_fragment_quiz.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/layout/fragment_quiz.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/drawable_ic_recipe.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/drawable/ic_recipe.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/drawable_welcome_screen.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/drawable/welcome_screen.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/layout_fragment_bmi_calculator.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/layout/fragment_bmi_calculator.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/layout_fragment_calories.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/layout/fragment_calories.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/drawable_ic_calories.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/drawable/ic_calories.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/layout_activity_main.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/drawable_ic_chart.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/drawable/ic_chart.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/layout_activity_welcome.xml.flat",
+        "source": "com.pjatk.bmi.app-main-45:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.pjatk.bmi.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]

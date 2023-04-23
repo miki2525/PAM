@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.pjatk.bmi.app-mergeDebugResources-42:/layout/fragment_quiz.xml",
+        "source": "com.pjatk.bmi.app-main-45:/layout/fragment_quiz.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-mergeDebugResources-42:/layout/fragment_chart.xml",
+        "source": "com.pjatk.bmi.app-main-45:/layout/fragment_chart.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-mergeDebugResources-42:/layout/fragment_recipe.xml",
+        "source": "com.pjatk.bmi.app-main-45:/layout/fragment_recipe.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.pjatk.bmi.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-mergeDebugResources-42:/layout/fragment_bmi_calculator.xml",
+        "source": "com.pjatk.bmi.app-main-45:/layout/fragment_bmi_calculator.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-mergeDebugResources-42:/layout/fragment_calories.xml",
+        "source": "com.pjatk.bmi.app-main-45:/layout/fragment_calories.xml"
+    },
+    {
+        "merged": "com.pjatk.bmi.app-mergeDebugResources-42:/layout/activity_welcome.xml",
+        "source": "com.pjatk.bmi.app-main-45:/layout/activity_welcome.xml"
+    }
+]
